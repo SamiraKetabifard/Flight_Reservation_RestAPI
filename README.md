@@ -6,7 +6,6 @@ Spring Boot REST API for managing flight bookings with comprehensive reservation
  
 - 🔐 User Management
   - User registration and profile updates
-  - Role-based access 
   - Conflict handling for duplicate emails/usernames
 
 - ✈️ Flight Operations
